@@ -4,4 +4,4 @@
 
 const name = "MD Abdur Rahman Nur Jamil";
 
-console.log(name)
+console.log(name);

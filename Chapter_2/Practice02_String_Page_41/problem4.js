@@ -2,6 +2,6 @@
 
 //  ANS 
 
-const fan = "Jennifer Connelly"
+const fan = "Jennifer Connelly";
 
-console.log(fan)
+console.log(fan);

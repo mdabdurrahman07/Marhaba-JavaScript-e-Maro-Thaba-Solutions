@@ -2,6 +2,6 @@
 
 // ANS
 
-const University = "Daffodil International of IT"
+const University = "Daffodil International of IT";
 
-console.log(University)
+console.log(University);
