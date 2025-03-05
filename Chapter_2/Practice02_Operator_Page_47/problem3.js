@@ -1,4 +1,4 @@
-// tor kache 60 taka aache| tui jodi protibar 15 taka kore khoroch korish, koybar khorch korte parbi ? abong khoroch er por koy taka baki thakbe shieta ber korte ekta programme lekh |
+// tor kache 60 taka aache| tui jodi protibar 15 taka kore khoroch korish, koybar khorch korte parbi ? abong khoroch er por koy taka baki thakbe shieta ber korte ekta program lekh |
 
 const haveMoney = 60;
 

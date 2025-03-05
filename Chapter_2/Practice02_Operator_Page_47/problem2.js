@@ -1,4 +1,4 @@
-// tor kache 10ta oencil aache| protibar tui ekhsathe 2ta pencil bebohar korbi | koto bar bebohar korte parbi ? programme likhe ber kor |
+// tor kache 10ta oencil aache| protibar tui ekhsathe 2ta pencil bebohar korbi | koto bar bebohar korte parbi ? program likhe ber kor |
 
 // ANS
 
