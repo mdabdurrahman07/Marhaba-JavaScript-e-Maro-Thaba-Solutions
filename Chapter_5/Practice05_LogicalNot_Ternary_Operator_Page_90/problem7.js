@@ -1,0 +1,1 @@
+const experience = false; experience ? null : console.log("I will buy this item") 
