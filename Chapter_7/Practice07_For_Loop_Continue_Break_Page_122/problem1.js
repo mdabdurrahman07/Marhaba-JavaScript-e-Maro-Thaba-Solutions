@@ -4,4 +4,3 @@ for(let i = 0; i< 30; i++){
         break
     }
 }
-//for loop with break
