@@ -4,4 +4,4 @@ const  father = {
     profession: "Job",
     children: 2
 }
-console.log(father)``
+console.log(father)
